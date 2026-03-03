@@ -1,0 +1,6 @@
+azure-identity
+azure-storage-blob
+nbformat
+pandas
+pyarrow
+python-dotenv
